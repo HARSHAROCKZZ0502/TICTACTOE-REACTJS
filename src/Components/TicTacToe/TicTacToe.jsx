@@ -64,6 +64,7 @@ const TicTacToe = () => {
         titleRef.current.innerHTML='Tic Tac Toe In <span>React</span>' 
         box_array.map((e)=>{
             if(e.current) e.current.innerHTML="";
+            return null;
         })
     }
   return (
