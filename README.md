@@ -3,7 +3,7 @@
 This is a simple yet fun **Tic-Tac-Toe game** built using **React.js**.  
 The project helped me strengthen the fundamentals of React such as component creation, state management, and event handling.
 
-> 🔗 **Live Demo**: [Play Now](https://your-netlify-link.netlify.app)  
+> 🔗 **Live Demo**: [Play Now](https://harshavardhantankala-tictactoe.netlify.app/)  
 > *(Replace with your actual Netlify URL)*
 
 ---
